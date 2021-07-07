@@ -1,0 +1,22 @@
+.Container{
+    margin: 0;
+    padding: 0;
+}
+.Header{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: center;
+    background-color: #F8F4E1;
+    color: black;
+    /* margin-bottom: 10px; */
+    /* font-weight: 700; */
+}
+.Tasks{
+   
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    padding: 35px;
+}

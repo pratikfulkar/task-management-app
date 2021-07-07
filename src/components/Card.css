@@ -1,0 +1,27 @@
+.Card{
+    padding: 15px;
+    /* background-color: white; */
+    /* box-shadow: 5px 5px grey; */
+    
+}
+.Card > input{
+    padding: 10px;
+}
+.description{
+    padding: 1px;
+    line-height: 1px;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+}
+.calender{
+    padding: 5px;
+
+}
+.time > select{
+    padding: 5px;
+}
+.Label{
+    display: flex;
+    flex-direction: column;
+}
